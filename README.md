@@ -1,2 +1,2 @@
-# Angular_L
+# Angular
 Create frontend features for future usage [Angular]
